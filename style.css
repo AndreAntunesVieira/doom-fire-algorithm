@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main {
+  width: 360px;
+  display: flex;
+  flex-wrap: wrap;
+}
+main div {
+  width: 4px;
+  height: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(0, 0, 0, 0.02);
+  font-size: 11px;
+}

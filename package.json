@@ -1,0 +1,22 @@
+{
+  "name": "doom-fire-algorithm",
+  "version": "1.0.0",
+  "description": "Just for fun! Problem based on: [filipedeschamps/doom-fire-algorith](https://github.com/filipedeschamps/doom-fire-algorithm)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreAntunesVieira/doom-fire-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreAntunesVieira/doom-fire-algorithm/issues"
+  },
+  "homepage": "https://github.com/AndreAntunesVieira/doom-fire-algorithm#readme",
+  "dependencies": {
+    "prettier": "^1.18.2"
+  }
+}
