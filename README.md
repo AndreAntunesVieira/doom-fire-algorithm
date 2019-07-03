@@ -5,3 +5,4 @@ Problem based on: [filipedeschamps/doom-fire-algorith](https://github.com/filipe
 
 None code copied from the original project ;-)
 
+[Play on](https://andreantunesvieira.github.io/doom-fire-algorithm/)
