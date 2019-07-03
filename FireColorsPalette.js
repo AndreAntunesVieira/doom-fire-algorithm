@@ -38,7 +38,7 @@ const palette = [
   [255, 255, 255],
 ]
 
-export const red = palette.map(([r,g,b]) => `rgb(${r},${g},${b})`)
-export const green = palette.map(([r,g,b]) => `rgb(${g},${r},${b})`)
-export const blue = palette.map(([r,g,b]) => `rgb(${b},${g},${r})`)
-export const violet = palette.map(([r,g,b]) => `rgb(${r},${b},${g})`)
+export const red = palette.map(([r, g, b]) => `rgb(${r},${g},${b})`)
+export const green = palette.map(([r, g, b]) => `rgb(${g},${r},${b})`)
+export const blue = palette.map(([r, g, b]) => `rgb(${b},${g},${r})`)
+export const violet = palette.map(([r, g, b]) => `rgb(${r},${b},${g})`)

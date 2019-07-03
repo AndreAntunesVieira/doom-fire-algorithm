@@ -1,6 +1,6 @@
 import * as colors from './FireColorsPalette.js'
 
-const fireColorsPalette = colors.blue
+const fireColorsPalette = colors.red
 const [width, height] = [90, 50]
 const totalFields = width * height
 const main = document.querySelector('main')
