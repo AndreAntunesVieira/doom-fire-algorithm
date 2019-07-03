@@ -11,8 +11,8 @@ main {
   flex-wrap: wrap;
 }
 main div {
-  width: 4px;
-  height: 4px;
+  width: 6px;
+  height: 6px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
